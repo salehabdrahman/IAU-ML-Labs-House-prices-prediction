@@ -1,0 +1,3 @@
+The data I chose is from Kaggle, Link: https://www.kaggle.com/datasets/shibumohapatra/house-price
+I aim to predict a house price based on many variables, like the size location ETC.
+The problem type is Regression. The target is to predict a house price. The model is expected to look at many variables, and predict a price range for the houses.
